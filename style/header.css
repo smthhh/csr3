@@ -32,6 +32,11 @@
     font-size: 20px;
     color: #000;
     text-decoration: none;
+    transition: 0.5s;
+}
+
+.first-container .navigate .menu ul li a:hover {
+    color: #0092e4;
 }
 
 .first-container .contact-btn {
